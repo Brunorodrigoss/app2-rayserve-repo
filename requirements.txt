@@ -1,3 +1,2 @@
-fastapi
-ray[serve]
-uvicorn
+fastapi==0.110.0
+requests==2.31.0
